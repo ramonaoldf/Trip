@@ -17,17 +17,13 @@ You can find the plan for how to spend the money on the [pledgie page](http://pl
 
 ## Getting Started
 
-### Downloading the prebuilt files
 
-Prebuilt files can be downloaded from http://jqueryvalidation.org/
 
-### Downloading the latest changes
 
-The unreleased development files can be obtained by:
+To build the unreleased development files:
 
- 1. [Downloading](https://github.com/jzaefferer/jquery-validation/archive/master.zip) or Forking this repository
- 2. [Setup the build](CONTRIBUTING.md#build-setup)
- 3. Run `grunt` to create the built files in the "dist" directory
+1. [Setup the build](CONTRIBUTING.md#build-setup)
+2. Run `grunt` to create the built files in the "dist" directory
 
 ### Including it on your page
 

@@ -10,7 +10,6 @@ I built this when I decided to travel around the world in a year. To create a ma
 
 ## Installation
 
-You can either download the travelmap.js (or min.js) or you can just use bower to install it:
 
 ```
 > bower install travelmap

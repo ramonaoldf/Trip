@@ -5,7 +5,6 @@ Bootswatch is a collection of free themes for [Bootstrap](http://getbootstrap.co
 
 Usage
 -----
-Download the `bootstrap.min.css` file associated with a theme and replace Bootstrap's default stylesheet.
 
 The themes are also hosted on [BootstrapCDN](http://www.bootstrapcdn.com/).
 

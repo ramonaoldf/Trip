@@ -29,7 +29,6 @@ To get started, check out <http://getbootstrap.com>!
 
 Several quick start options are available:
 
-* [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.3.6.zip).
 * Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
 * Install with [Bower](http://bower.io): `bower install bootstrap`.
 * Install with [npm](https://www.npmjs.com): `npm install bootstrap`.
@@ -40,7 +39,6 @@ Read the [Getting started page](http://getbootstrap.com/getting-started/) for in
 
 ### What's included
 
-Within the download you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
 ```
 bootstrap/
@@ -90,7 +88,6 @@ Learn more about using Jekyll by reading its [documentation](http://jekyllrb.com
 
 Documentation for v2.3.2 has been made available for the time being at <http://getbootstrap.com/2.3.2/> while folks transition to Bootstrap 3.
 
-[Previous releases](https://github.com/twbs/bootstrap/releases) and their documentation are also available for download.
 
 
 ## Contributing
@@ -99,7 +96,6 @@ Please read through our [contributing guidelines](https://github.com/twbs/bootst
 
 Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/twbs/bootstrap/tree/master/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
-Editor preferences are available in the [editor config](https://github.com/twbs/bootstrap/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <http://editorconfig.org>.
 
 
 ## Community
